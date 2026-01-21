@@ -19,3 +19,5 @@ let countryOne = "USA";
 let countryTwo = "Georgia";
 
 console.log(countryTwo);
+
+// Test 2
