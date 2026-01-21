@@ -26,3 +26,5 @@ let likesJavaScript = true;
 let futureGoal;
 //A variable with **null** value
 let emptyValue = null;
+
+//Test
