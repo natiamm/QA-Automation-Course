@@ -1,0 +1,9 @@
+//
+
+if ("Hello") {
+  console.log("This is a truthy value");
+}
+
+if (0) {
+  console.log("This is a falsy value");
+}
